@@ -11,7 +11,7 @@ body {
 
     /* A3 */
     width: 1587.4026px;
-    height: 1122.520px;
+    height: 1122.5204px;
     
     display: flex;
     justify-content: center;
@@ -22,18 +22,21 @@ body {
     position: relative;
     border: 0.0047244100440202rem solid black;
    
-    margin-top: 37.7953px;
+    /* margin-top: 37.7953px;
     margin-bottom: 37.7953px;
     margin-right: 37.7953px;
-    margin-left: 37.7953px;
+    margin-left: 37.7953px; */
 
     /* A4 */
     /* width: 1046.9298px;
     height: 718.1107px; */
 
-    /* A4 */
-    width: 1511.812px;
-    height: 1046.9298px;
+    /* A3 */
+    /* Modifié le 15/11/2022 */
+    /* width: 1511.812px;
+    height: 1046.9298px; */
+    width: 1538.0826px;
+    height: 1073.2004px;
 }
 
 .cartouche {
