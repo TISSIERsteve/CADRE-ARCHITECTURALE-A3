@@ -12,7 +12,7 @@ body {
     padding-bottom: 24.66px;
     padding-right: 24.66px;
     padding-left: 24.66px;
-    background-color: red;
+    /* background-color: red; */
 }
 
 .cadre {
@@ -20,7 +20,7 @@ body {
     border: 0.0047244100440202rem solid black;
     width: 1511.812px;
     height: 1046.9298px;
-    background-color: #fff;
+    /* background-color: #fff; */
 }
 
 .cartouche {
