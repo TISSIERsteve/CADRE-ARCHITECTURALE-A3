@@ -5,38 +5,22 @@
 }
 
 body {
-    /* A4 */
-    /* width: 1122.5204px;
-    height: 793.7013px; */
-
-    /* A3 */
-    width: 1587.4026px;
-    height: 1122.5204px;
-    
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-top: 24.66px;
+    padding-bottom: 24.66px;
+    padding-right: 24.66px;
+    padding-left: 24.66px;
+    background-color: red;
 }
 
 .cadre {
     position: relative;
     border: 0.0047244100440202rem solid black;
-   
-    /* margin-top: 37.7953px;
-    margin-bottom: 37.7953px;
-    margin-right: 37.7953px;
-    margin-left: 37.7953px; */
-
-    /* A4 */
-    /* width: 1046.9298px;
-    height: 718.1107px; */
-
-    /* A3 */
-    /* Modifié le 15/11/2022 */
-    /* width: 1511.812px;
-    height: 1046.9298px; */
-    width: 1538.0826px;
-    height: 1073.2004px;
+    width: 1511.812px;
+    height: 1046.9298px;
+    background-color: #fff;
 }
 
 .cartouche {
